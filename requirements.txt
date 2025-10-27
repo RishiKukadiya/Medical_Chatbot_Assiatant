@@ -1,0 +1,12 @@
+langchain
+langchain-ollama
+langchain-core
+langchain-community
+faiss-cpu
+chromadb
+sqlalchemy
+pymysql
+psycopg2-binary
+python-dotenv
+streamlit
+tiktoken
