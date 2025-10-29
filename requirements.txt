@@ -1,8 +1,25 @@
+# Streamlit and UI
 streamlit
 streamlit-chat
+
+# Data handling
 pandas
+numpy
+
+# Database
 sqlalchemy
+mysql-connector-python
+
+# Environment variables
 python-dotenv
+
+# Machine Learning / NLP
 langchain
 faiss-cpu
+scikit-learn
+
+# LLM integrations
 ollama
+
+# Optional helpers
+tqdm
