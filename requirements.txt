@@ -13,3 +13,4 @@ tiktoken
 langchain>=0.2.17
 torch
 faiss-cpu
+streamlit-chat
